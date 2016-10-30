@@ -1,6 +1,6 @@
 #WPVulnCLI
 
-WPVulnCLI is a cli tool to search the [WPVulnDB]("https://wpvulndb.com")
+WPVulnCLI is a cli tool to search the [WPVulnDB](https://wpvulndb.com)
 
 ##Requirements
 * colorama
